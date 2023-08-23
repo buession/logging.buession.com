@@ -1,7 +1,7 @@
 {
-  "title": "Buession Framework",
-  "keywords": "buession java framework",
-  "description": "基于各开源框架的二次开发和封装",
+  "title": "Buession Logging",
+  "keywords": "buession logging 用户行为 日志",
+  "description": "一款用于记录用户操作行为的日志框架",
   "author": "buession",
   "theme": "demo",
   "root": "src",
